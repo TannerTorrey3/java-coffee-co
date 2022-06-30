@@ -77,7 +77,7 @@ public class Main {
             throw new RuntimeException(e);
         }
         BufferedReader invReader = new BufferedReader(new InputStreamReader(inventoryInputStream));
-        invReader.lines().forEachOrdered(invLine -> System.out.println(invLine.toString()));
+        invReader.lines().forEachOrdered(invLine -> System.out.println(invLine));
     }
     public static ArrayList<String> CreateOrder(){
         Main nonStatic = new Main();

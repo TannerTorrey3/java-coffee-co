@@ -3,3 +3,8 @@ RECEIPT
 Item 1: Black coffee | Cost: 0.85
 TOTAL COST OF ORDER: 0.85
 
+Writing orders from stack 2022-06-29 at 20:29:47 PDT
+RECEIPT
+Item 1: Black coffee-milk | Cost: 1.00
+TOTAL COST OF ORDER: 1.00
+
