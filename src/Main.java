@@ -20,6 +20,7 @@ public class Main {
     private static FileInputStream inventoryInputStream = null;
     //METHODS
     public static void main(String[] args) {
+        new JavaCoffeeCO();
         Main nonStatic = new Main();
         Scanner CoffeeApplication = new Scanner(System.in);
         System.out.println("Cafe application running...");
