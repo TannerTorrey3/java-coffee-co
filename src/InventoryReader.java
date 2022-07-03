@@ -1,8 +1,11 @@
 import javax.swing.*;
 import java.awt.*;
 
+/**
+ * JPanel abstraction used for creating an Inventory reader page
+ */
 public class InventoryReader extends JPanel {
-    public InventoryReader(){
+    public InventoryReader(){//TODO complete
         super();
         this.setBackground(new Color(25,255,230));
 

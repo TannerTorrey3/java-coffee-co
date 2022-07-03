@@ -8,3 +8,18 @@ RECEIPT
 Item 1: Black coffee-milk | Cost: 1.00
 TOTAL COST OF ORDER: 1.00
 
+Writing orders from stack 2022-07-01 at 11:43:53 PDT
+RECEIPT
+Item 1: Hot Water | Cost: 0.00
+TOTAL COST OF ORDER: 0.00
+
+Writing orders from stack 2022-07-01 at 12:24:22 PDT
+RECEIPT
+Item 1: Black coffee-milk | Cost: 1.00
+TOTAL COST OF ORDER: 1.00
+
+Writing orders from stack 2022-07-01 at 12:24:22 PDT
+RECEIPT
+Item 1: Black coffee-Espresso Shot | Cost: 1.20
+TOTAL COST OF ORDER: 1.20
+
