@@ -12,3 +12,4 @@ Although Basic Coffee is used as a base class during instantiation.
 ### GUI Classes
 JavaCoffeeCo is the JFrame, MenuContainer and Navbar are static to the page. While, menu pages are dynamically loaded based on input.
 Lots of features are being developed to further the implementation of the UI.
+#### WARNING: GUI is incomplete 
